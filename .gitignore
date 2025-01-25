@@ -1,0 +1,13 @@
+venv/
+.venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+assets/
+model/
+images/
+query/
+data/
+**/__pycache__/
+__pycache__/
+.DS_Store
